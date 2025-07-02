@@ -1,2 +1,1 @@
-# Selenium_Project
-Selenium_Certification_Project
+This is a Selenium_Certification_Project
